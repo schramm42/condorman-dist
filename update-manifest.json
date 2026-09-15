@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "version": "0.9.0",
+  "releasedAt": "2026-09-15T06:32:04Z",
+  "notesUrl": "https://github.com/schramm42/condorman-dist/releases/tag/v0.9.0",
+  "assets": [{"platform":"windows/amd64","kind":"installer","url":"https://github.com/schramm42/condorman-dist/releases/download/v0.9.0/condorman-0.9.0-windows-amd64-installer.exe","size":8773275,"sha256":"b2842468279de6540bf498ff9088ed7f6a6f233bfbe64301e36ca65825869fdf"},{"platform":"linux/amd64","kind":"archive","url":"https://github.com/schramm42/condorman-dist/releases/download/v0.9.0/condorman-0.9.0-linux-amd64.tar.gz","size":6511422,"sha256":"9b99b49b6ca907a3f21070174daf865a716b2d0ed158d5f31f1f6a6be6ca80c9"},{"platform":"darwin/arm64","kind":"archive","url":"https://github.com/schramm42/condorman-dist/releases/download/v0.9.0/condorman-0.9.0-macos-arm64.zip","size":6386360,"sha256":"2b4f2e1fad0252b0625b7bb011db9d031ccc9ae2dccbb875c4c9d76a2b862090"}]
+}
