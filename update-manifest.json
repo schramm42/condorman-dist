@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.0",
-  "releasedAt": "2026-09-15T06:32:04Z",
-  "notesUrl": "https://github.com/schramm42/condorman-dist/releases/tag/v0.9.0",
-  "assets": [{"platform":"windows/amd64","kind":"installer","url":"https://github.com/schramm42/condorman-dist/releases/download/v0.9.0/condorman-0.9.0-windows-amd64-installer.exe","size":8773275,"sha256":"b2842468279de6540bf498ff9088ed7f6a6f233bfbe64301e36ca65825869fdf"},{"platform":"linux/amd64","kind":"archive","url":"https://github.com/schramm42/condorman-dist/releases/download/v0.9.0/condorman-0.9.0-linux-amd64.tar.gz","size":6511422,"sha256":"9b99b49b6ca907a3f21070174daf865a716b2d0ed158d5f31f1f6a6be6ca80c9"},{"platform":"darwin/arm64","kind":"archive","url":"https://github.com/schramm42/condorman-dist/releases/download/v0.9.0/condorman-0.9.0-macos-arm64.zip","size":6386360,"sha256":"2b4f2e1fad0252b0625b7bb011db9d031ccc9ae2dccbb875c4c9d76a2b862090"}]
+  "version": "1.0.0",
+  "releasedAt": "2026-11-17T12:29:53Z",
+  "notesUrl": "https://github.com/schramm42/condorman-dist/releases/tag/v1.0.0",
+  "assets": [{"platform":"windows/amd64","kind":"installer","url":"https://github.com/schramm42/condorman-dist/releases/download/v1.0.0/condorman-1.0.0-windows-amd64-installer.exe","size":8774370,"sha256":"d573dfe00c205176aa6b81b5f69b39de85b3f4d563118adc76cc90c98b436462"},{"platform":"linux/amd64","kind":"archive","url":"https://github.com/schramm42/condorman-dist/releases/download/v1.0.0/condorman-1.0.0-linux-amd64.tar.gz","size":6507150,"sha256":"bc275f43744581ecd9d2e382b08565a4031dd6a6084b37497cf8024a93015da7"},{"platform":"darwin/arm64","kind":"dmg","url":"https://github.com/schramm42/condorman-dist/releases/download/v1.0.0/condorman-1.0.0-macos-universal.dmg","size":14338071,"sha256":"9c5144e41cc8462935759ce6fbe71367eff86f2f47c44944e1953561a40113db"},{"platform":"darwin/amd64","kind":"dmg","url":"https://github.com/schramm42/condorman-dist/releases/download/v1.0.0/condorman-1.0.0-macos-universal.dmg","size":14338071,"sha256":"9c5144e41cc8462935759ce6fbe71367eff86f2f47c44944e1953561a40113db"}]
 }
